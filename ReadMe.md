@@ -1,5 +1,7 @@
 # w266 Final Project: Diplomatic Lie Detector
 
+For our final paper, access w266 Final Project-Adam Kreitzman and Lee Perkins.pdf
+
 ## Overview
 "Diplomatic Lie Detector" is a groundbreaking research project focused on enhancing the detection of deception in online text communications, particularly in the strategic game of Diplomacy. Our work builds upon the foundational research by Peskov et al., exploring advanced neural network architectures and diverse tokenization strategies.
 
